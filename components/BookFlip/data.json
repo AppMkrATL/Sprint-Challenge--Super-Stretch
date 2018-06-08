@@ -1,0 +1,180 @@
+{
+    "books": [
+        
+        {
+            "coverPage": "IT_Books/Covers/81782175810.jpg",
+            "detail": "IT_Books/PDFs/9781782175810-HADOOP_EXPLAINED.pdf",
+            "Title": "Hadoop Explained",
+            "description": "Hadoop is one of the most important technologies in a world that is built on data. Find out how it has developed and progressed to address the continuing challenge of Big Data with this insightful guide.",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81787125988.png",
+            "detail": "IT_Books/PDFs/9781787125988-CLOUD_NATIVE_PROGRAMMING_WITH_GOLANG.pdf",
+            "Title": "Cloud Native programming with Golang",
+            "description": "Discover practical techniques to build cloud-native apps that are scalable, reliable, and always available.",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81785280580.jpg",
+            "detail": "IT_Books/PDFs/9781785280580-R_DEEP_LEARNING_ESSENTIALS.pdf",
+            "Title": "R Deep Learning Essentials",
+            "description": "Build automatic classification and prediction models using unsupervised learning",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81847193315.jpg",
+            "detail": "IT_Books/PDFs/9781847193315-BEGINNERS_GUIDE_TO_SQL_SERVER_INTEGRATION_SERVICES_USING_VISUAL_STUDIO_2005.pdf",
+            "Title": "Beginners Guide to SQL Server Integration Services Using Visual Studio 2005",
+            "description": "An ideal book and eBook for trainers who want to teach an introductory course in SQL Server Integration Services or, to those who want to study and learn SSIS in a little over two weeks.",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81786466204.png",
+            "detail": "IT_Books/PDFs/9781786466204-GO_DESIGN_PATTERNS.pdf",
+            "Title": "Go Design Patterns",
+            "description": "Learn idiomatic, efficient, clean, and extensible Go design and concurrency patterns by using TDD",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81785888878.png",
+            "detail": "IT_Books/PDFs/9781785888878-SWIFT_ESSENTIALS_SECOND_EDITION.pdf",
+            "Title": "Swift Essentials - Second Edition",
+            "description": "Discover how to build iOS and watchOS applications in Swift 2 using Xcode.",
+            "language": "en"
+        },
+                {
+            "coverPage": "IT_Books/Covers/81782162148.jpg",
+            "detail": "IT_Books/PDFs/9781782162148-MACHINE_LEARNING_WITH_R.pdf",
+            "Title": "Machine Learning with R",
+            "description": "R gives you access to the cutting-edge software you need to prepare data for machine learning. No previous knowledge required – this book will take you methodically through every stage of applying machine learning.",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81849696623.jpg",
+            "detail": "IT_Books/PDFs/9781849696623-RASPBERRY_PI_COOKBOOK_FOR_PYTHON_PROGRAMMERS.pdf",
+            "Title": "Raspberry Pi Cookbook for Python Programmers",
+            "description": "The Raspberry Pi Cookbook has over 50 tailor-made recipes for programmers to get the most out of Raspberry Pi using Python to unleash its huge potential.",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81782161400.jpg",
+            "detail": "IT_Books/PDFs/9781782161400-BUILDING_MACHINE_LEARNING_SYSTEMS_WITH_PYTHON.pdf",
+            "Title": "Building Machine Learning Systems with Python",
+            "description": "Expand your Python knowledge and learn all about machine-learning libraries in this user-friendly manual. ML is the next big breakthrough in technology and this book will give you the head-start you need.",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81786465900.jpg",
+            "detail": "IT_Books/PDFs/9781786465900-WHAT_YOU_NEED_TO_KNOW_ABOUT_PYTHON.pdf",
+            "Title": "What you need to know about Python",
+            "description": "Python is one of the most popular languages in the development world; flexible and powerful. Download this free eBook today and get started on your path to becoming a Python Master!",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81783551712.png",
+            "detail": "IT_Books/PDFs/9781783551712-LEARNING_PYTHON.pdf",
+            "Title": "Learning Python",
+            "description": "Learn to code like a professional with Python – an open source, versatile, and powerful programming language.",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81783554355.jpg",
+            "detail": "IT_Books/PDFs/9781783554355-MASTERING_IOS_GAME_DEVELOPMENT.pdf",
+            "Title": "Mastering iOS Game Development",
+            "description": "Master the advanced concepts of game development for iOS to build impressive games.",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81783989645.png",
+            "detail": "IT_Books/PDFs/9781783989645-ANDROID_NDK_BEGINNERS_GUIDE_SECOND_EDITION.pdf",
+            "Title": "Android NDK: Beginner's Guide - Second Edition",
+            "description": "Discover the native side of Android and inject the power of C/C++ in your applications.",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81782167167.jpg",
+            "detail": "IT_Books/PDFs/9781782167167-ANDROID_SECURITY_COOKBOOK.pdf",
+            "Title": "Android Security Cookbook",
+            "description": "Practical recipes to delve into Android's security mechanisms by troubleshooting common vulnerabilities in applications and Android OS versions.",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81904811305.jpg",
+            "detail": "IT_Books/PDFs/9781904811305-CREATING_YOUR_MYSQL_DATABASE_PRACTICAL_DESIGN_TI.pdf",
+            "Title": "Creating your MySQL Database: Practical Design Tips and Techniques",
+            "description": "A short guide for everyone on how to structure your data and set-up your MySQL database tables efficiently and easily.",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81786465901.jpg",
+            "detail": "IT_Books/PDFs/81786465901-What you need to know about R.pdf",
+            "Title": "What you need to know about R",
+            "description": "Discover one of the most powerful functional programming languages on the planet with this free eBook. This title is the perfect first step into the world of R where you will learn about the core concepts, libraries, and packages. With R by your side you’ll be ready to start producing your own customizable scripts, commands, and more!",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81783280995.jpg",
+            "detail": "IT_Books/PDFs/9781783280995-PRACTICAL_DATA_ANALYSIS.pdf",
+            "Title": "Practical Data Analysis",
+            "description": "For small businesses, analyzing the information contained in their data using open source technology could be game-changing. All you need is some basic programming and mathematical skills to do just that.",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81782175919.jpg",
+            "detail": "IT_Books/PDFs/9781782175919-PRACTICAL_WEB_DEVELOPMENT.pdf",
+            "Title": "Practical Web Development",
+            "description": "Learn CSS, JavaScript, PHP, and more with this vital guide to modern web development.",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/B05618.jpg",
+            "detail": "IT_Books/PDFs/97B05618-What You Need To Know About Node.js.pdf",
+            "Title": "What You Need To Know About Node.js",
+            "description": "Looking to learn everything you need to know to get started using Node.js in as little time as possible? If so then this is the title for you. Providing everything you need to know to get started creating your own applications while also understanding how to work with Node like experienced developers do, you’ll be able to get started with your own projects in no time!",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81782175872.jpg",
+            "detail": "IT_Books/PDFs/9781782175872-THINKING_IN_HTML.pdf",
+            "Title": "Thinking in HTML",
+            "description": "For anyone who wants to understand the web and how it works, HTML is an essential place to start. This free eBook provides you with everything you need to know to get to grips with HTML and to begin building your own web pages. Explore how HTML code structures a web page and use and adapt the examples for yourself to begin building your own web pages today.",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81782175834.jpg",
+            "detail": "IT_Books/PDFs/9781782175834-THINKING_IN_CSS.pdf",
+            "Title": "Thinking in CSS",
+            "description": "Start using CSS and get to grips with one of the most foundational but important languages in web design. Use this free eBook to explore how to code and build websites, following the examples and tips for an accessible but essential learning experience.",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81782175858.jpg",
+            "detail": "IT_Books/PDFs/9781782175858-THINKING_IN_JAVASCRIPT.pdf",
+            "Title": "Thinking in JavaScript",
+            "description": "Get started with JavaScript with this free eBook and learn one of the most important languages in web development today. With helpful tips and code examples, discover how you can create websites with impressive and dynamic functionality. Explore JavaScript’s in-built features and find out how to customize them in this accessible and free guide.",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81786464910.png",
+            "detail": "IT_Books/PDFs/9781786464910-INFRASTRUCTURE_AS_CODE_IAC_COOKBOOK.pdf",
+            "Title": "Infrastructure as Code (IAC) Cookbook",
+            "description": "Over 90 practical, actionable recipes to automate, test, and manage your infrastructure quickly and effectively",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81783980086.jpg",
+            "detail": "IT_Books/PDFs/9781783980086-ANGULARJS_ESSENTIALS.pdf",
+            "Title": "ANGULARJS ESSENTIALS",
+            "description": "Discover the best practices of the AngularJS framework and its most important concepts such as AngularJS directives, expressions, filters, and modules. This free eBook guides you through the steps of building your very own web application with AngularJS.",
+            "language": "en"
+        },
+        {
+            "coverPage": "IT_Books/Covers/81785288449.jpg",
+            "detail": "IT_Books/PDFs/9781785288449-ANDROID_5_PROGRAMMING_BY_EXAMPLE.pdf",
+            "Title": "ANDROID 5 PROGRAMMING BY EXAMPLE",
+            "description": "Take the time to turn your ideas into elegant and powerful mobile applications with this FREE 212 page eBook. Whether you need to start from the very beginning or simply build up your Android knowledge this title offers everything you need and more, so take the time to download it today as see what the difference is!",
+            "language": "en"
+        }
+    ]
+}

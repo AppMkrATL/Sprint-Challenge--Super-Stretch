@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lambda Times</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stortcut icon" href="./favicon.ico">
+  <link rel="stylesheet" type="text/css" href="./CSS/index.css" />
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+
+
+  <script src="./components/Tabs/Tabs.js" async></script>
+<!--   <script src="./components/Carousel/Carousel.js" async></script> --> 
+  <script src="components/MarqueeTicker/index.js" async></script>
+  <link rel="stylesheet" type="text/css" href="components/MarqueeTicker/style.css" />
+
+
+<!--   <script src="./components/Carousel/Carousel.js" async></script> -->
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.1/jquery.fancybox.min.css" />
+        <link rel="stylesheet" href="components/BookFlip/style.css">
+</head>
+<body>
+
+  <!-- TOP BAR COMPONENT -->
+  <div class="top-bar">
+    <div class="container">
+      <div class="container-left">
+        <span>TOPICS</span><span id="search" ><input type="text" class="quicksearch" placeholder="SEARCH: " /></span>
+
+
+           
+
+      </div>
+      <div class="container-center">
+        <span>GENERAL</span><span>BROWNBAG</span><span>RANDOM</span><span>MUSIC</span><span>ANNOUNCEMENTS</span>
+      </div>
+      <div class="container-right">
+        <span>LOG IN</span>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- HEADER COMPONENT -->
+  <div class="header">
+    <span class="date"  id="date"></span>
+    <h1>Lambda Times</h1>
+    <span class="temp" id="geoCode">98°</span>
+  </div>
+
+  <!-- TABS COMPONENT -->
+  <div class="tabs">
+    <div class="topics">
+      <span class="title">TRENDING TOPICS:</span>
+      <div data-tab="all" class="tab active-tab">ALL</div>
+      <div data-tab="javascript" class="tab">JAVASCRIPT</div>
+      <div data-tab="technology" class="tab">TECHNOLOGY</div>
+      <div data-tab="node" class="tab">NODE.JS</div>
+      <div data-tab="jquery" class="tab">jQUERY</div>
+      <div data-tab="bootstrap" class="tab">BOOTSTRAP</div>
+    </div>
+  </div>
+
+  <!-- STRETCH GOAL: ONLY UNCOMMENT THIS WHEN YOU ARE FINISHED WITH THE MAIN OBJECTIVE -->
+  <!-- CAROUSEL COMPONENT -->
+<!--   <div class="carousel">
+    <div class="left-button"><</div>
+    <img src="assets/carousel/mountains.jpeg" />
+    <img src="assets/carousel/computer.jpeg" />
+    <img src="assets/carousel/trees.jpeg" />
+    <img src="assets/carousel/turntable.jpeg" />
+    <div class="right-button">></div>
+  </div>  -->
+  
+  <!-- Lambda marquee COMPONENT -->
+  <p class="Lambda marquee ">Lambda School and YC are focused on your success — . With <a href="http://windows.microsoft.com/en-US/windows-8/start-screen">knowlegeable  PMs</a>, <a href="http://windows.microsoft.com/en-US/windows-8/charms">great teacher</a>, and a <a href="http://windows.microsoft.com/en-US/windows-8/microsoft-account">dedicated "Student Success Team"</a>, you can spend less time searching for knowledge and more time learning and coding.</p>
+
+  <!-- CARDS COMPONENT -->
+  <div class="cards-container">
+
+
+        <!-- BookFlip COMPONENTS begin -->
+        <div id="container" class="container">
+ 
+            <div id="books" class="grid"></div>
+        </div>
+        <!-- BookFlip COMPONENTS end -->
+    
+
+    
+
+  </div>
+
+     <script src="components/Date/date.js"></script> 
+     <script src="components/GeoCode/accessKeys.js"></script> 
+     <script src="components/GeoCode/index.js"></script> 
+
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.1/jquery.fancybox.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script src="components/BookFlip/main.js" type="text/javascript"></script>
+
+
+</body>
+</html>
